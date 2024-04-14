@@ -1,7 +1,7 @@
 certifi==2021.10.8
 charset-normalizer==2.0.7
 contextlib2==21.6.0
-idna==3.3
+idna==3.7
 pystardog==0.10.0
 requests==2.26.0
 requests-toolbelt==0.9.1
